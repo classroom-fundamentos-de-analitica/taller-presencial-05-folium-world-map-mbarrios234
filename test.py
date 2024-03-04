@@ -27,4 +27,3 @@ assert dataframe["Italy"] == 112
 if not os.path.exists("map.html"):
     raise FileNotFoundError("File 'map.html' not found")
 
-#hola
